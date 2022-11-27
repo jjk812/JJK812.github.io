@@ -8,8 +8,14 @@
       <link href="/2022/10/28/2022-11-26%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/10/28/2022-11-26%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h2><h2 id="靳俭凯"><a href="#靳俭凯" class="headerlink" title="靳俭凯"></a>靳俭凯</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h2><div class="note default simple"><p>我的小标签 </p></div>]]></content>
       
+      
+      <categories>
+          
+          <category> java学习笔记 </category>
+          
+      </categories>
       
       
     </entry>
@@ -17,12 +23,18 @@
     
     
     <entry>
-      <title>my second artical</title>
+      <title>我的第二篇文章</title>
       <link href="/2022/10/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
       <url>/2022/10/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87/</url>
       
         <content type="html"><![CDATA[<h2 id="my-home"><a href="#my-home" class="headerlink" title="my home"></a>my home</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> solidity学习笔记 </category>
+          
+      </categories>
       
       
     </entry>
